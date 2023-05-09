@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.asm": "assembly",
+        "string.h": "c",
+        "stdlib.h": "c"
+    }
+}
